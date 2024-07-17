@@ -1,0 +1,56 @@
+#firstColumn {
+    text-align: left;
+    padding: 4px;
+    border-right: 2px solid black;
+    
+}
+
+.firstColumnText {
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:grey
+
+}
+.headingText{
+    Color:#777DA7;
+}
+.HeadingColors{
+    color: #B18FCF;
+}
+#profileImage {
+    border: 1px solid #ddd;
+        border-radius: 2px;
+        padding: 2px;
+}
+#secondColumn {
+    text-align: left;
+    padding: 20px;
+}
+.paragraphContent {
+    font-size: 17px;
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 5px;
+        
+}
+.paragraphHeading{
+    color:#B18FCF;
+}
+.paragraphKale{
+    font-style:italic;
+    
+}
+#certificationItems{
+    font-style: italic;
+    font-size: 17px;
+}
+#hobbiesItems{
+    font-style: italic;
+    font-size: 17px;
+    margin-left:10px;
+
+}
+#hobbiesItems{
+    font-style: italic;
+    font-size: 17px;
+
+}
